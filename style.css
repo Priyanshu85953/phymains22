@@ -490,8 +490,8 @@ header img {
 
 /* Styles for numerical question images */
 .numerical-image {
-    height: 350px;   /*300px*/
-    width: 450px;    /*530px*/
+    height: 300px;
+    width: 530px;
 }
 
 /* #q1{
